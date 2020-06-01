@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="app_tile_name">Lock screen</string>
+    <string name="app_err_device_admin_required">Device admin need</string>
+</resources>
